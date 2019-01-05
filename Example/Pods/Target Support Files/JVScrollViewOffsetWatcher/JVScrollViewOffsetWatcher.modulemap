@@ -1,0 +1,6 @@
+framework module JVScrollViewOffsetWatcher {
+  umbrella header "JVScrollViewOffsetWatcher-umbrella.h"
+
+  export *
+  module * { export * }
+}

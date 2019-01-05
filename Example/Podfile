@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVScrollViewOffsetWatcher_Tests' do
+  pod 'JVScrollViewOffsetWatcher', :path => '../'
+  
+  
+end

@@ -1,0 +1,16 @@
+PODS:
+  - JVScrollViewOffsetWatcher (0.1.0)
+
+DEPENDENCIES:
+  - JVScrollViewOffsetWatcher (from `../`)
+
+EXTERNAL SOURCES:
+  JVScrollViewOffsetWatcher:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVScrollViewOffsetWatcher: f03e4d42fed29cb46f651ca1bf9a00ae12e12b07
+
+PODFILE CHECKSUM: 638e44186c857126dfc93e209c9165588019feae
+
+COCOAPODS: 1.6.0.beta.1
